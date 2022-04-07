@@ -1,0 +1,26 @@
+this is the folder where all your actual contents will be: posts, articles, pages, folders, subfolders....
+
+if you want to add new content to your site:
+    say you want to put something into your posts folder:
+        hugo new posts/name_of_the_post.md
+
+    seems like it is important to give it an md extension mor markdown
+
+    this creates a new folder named posts into your content directory with a file named name_of_the_post.md
+
+    the created file gets a set of headers:
+    -----------
+    title: "name_of_the_post"
+    date: 2022-.....
+    draft: false
+    -----------
+
+    when draft is set to true it is not going to be displayed, else it is.
+
+
+    you can also create a new file/folder manually. But then you have to create the headers manually as well
+
+    the "archives" stuff comes from : themes/PaperMod/layout/_default
+
+    
+

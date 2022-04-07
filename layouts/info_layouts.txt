@@ -1,0 +1,8 @@
+this is for theme overrides
+
+each theme comes with its own layouts folder. if you want to change your layout, you can override it either in the layouts folder of that specific theme
+or you can copy the folders there into the layouts folder of your projects home directory.
+
+
+to override stuff you have to copy the exact same folder structure from the theme you are using:
+    here I created a _default/archives.html file in my root layouts just like in the PaperMod directory
