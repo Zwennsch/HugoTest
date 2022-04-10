@@ -2,6 +2,8 @@
 title: "First Post"
 date: 2022-04-06T17:33:47+02:00
 draft: false
+tags: ["testTag", "oneMore"]
+categories: ["cat1"]
 ---
 
 

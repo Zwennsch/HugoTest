@@ -3,6 +3,25 @@ languageCode: en-us
 title: Sven Schroeder Demo
 theme: PaperMod
 
+params: 
+  cover:
+    linkFullImages: true
+
+  showBreadCrumbs: true
+
+  showReadingTime: true
+
+  showShareButtons: true
+
+  showPostNavLinks: true
+
+  homeInfoParams:
+    Title: Hello Stranger 
+    Content: "Welcome to my Blog."
+  socialIcons: 
+    - name: "github"
+      url: "https://github.com/Zwennsch"
+
 menu: 
   main:
     - identifier: categories
